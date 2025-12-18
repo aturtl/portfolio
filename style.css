@@ -1,0 +1,181 @@
+html {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #fff2f6;
+    background: url(stars.png) center center repeat;
+    background-repeat: space;
+    image-rendering:pixelated;
+    cursor: url("images/cursors/mouse.png"), default;
+    color: rgb(53, 93, 116);
+}
+
+h1 {
+    font-family:'Trebuchet MS', 'Arial Narrow', Arial, sans-serif;
+    font-size: 5em;
+    text-align: center;
+    margin-top:.25em;
+    margin-bottom:.15em;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 180%;
+    margin-top: 1em;
+    margin-bottom:.5em;
+    color: black;
+}
+
+h3 {
+    margin-bottom: 0;
+    margin-top: 2px;
+    text-align: center;
+    color: black;
+}
+
+h4 {
+    font-size: 3em;
+    margin-bottom: 0;
+    margin-top: 1em;
+    margin-bottom: .5em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h5{
+    font-size:1.5em;
+    color:black;
+    margin-top:2em;
+    margin-bottom: .2em;
+    text-align: center;
+}
+
+h6 {
+    font-size:1em;
+    text-align:center;
+    margin-top:.2em;
+    margin-bottom:.2em
+}
+
+p {
+    text-indent: 1em;
+    width: 50%;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    color: black;
+}
+
+audio {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2.5em;
+    margin-bottom: 4em;
+}
+
+video {
+    display:block;
+    margin: 0 auto;
+}
+
+.info {
+    text-align: center;
+    margin: 0 auto;
+    padding-left:0;
+    margin-bottom: 10px;
+}
+
+.menu {
+    text-align: center;
+    margin: 0 auto;
+    padding-left:0;
+}
+
+.pagebottom {
+    margin-top: 0;
+    margin-bottom: 12em;
+}
+
+.logo {
+    display: block;
+    width: 4em;
+    image-rendering:pixelated;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.inline{
+    text-align: center;
+    display: inline-block;
+    padding: 0px 20px;
+    font-size: large;
+}
+
+.menulink{
+    color:black;
+    text-decoration: none;
+}
+
+.menubutton:hover{
+    transform:scale(1.15);
+    cursor: url("images/cursors/mouse_hover.png"), default;
+}
+
+.gmail:hover{
+    cursor: url("images/cursors/mail_logo.gif"), default;
+}
+
+a:hover{
+    cursor: url("images/cursors/mouse_hover.png"), default;
+}
+
+.menuli{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    margin-top: .5em;
+    font-size: 2em;
+    padding: 0px 40px;
+}
+
+.starbullet{
+    image-rendering:pixelated;
+    list-style-image: url('star.png');
+}
+
+.center{
+    text-align: center;
+    height:auto;
+    width:auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thinbar {
+    margin-top: 2em ;
+    height: 2px;
+    width: 100%;
+    background-color: rgb(43, 17, 6);
+}
+
+.bar {
+    height: 5px;
+    width: 100%;
+    background-color: rgb(43, 17, 6);
+}
+
+.starbar {
+    height: 60px;
+    width:100%;
+    image-rendering:pixelated;
+    background-size: .5em;
+}
+
+.copybutton {
+    background: none;
+    outline: none;
+    height:4em;
+}
