@@ -110,7 +110,8 @@
               "RelativeToolTip": "copyText.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-06-28T19:42:34.088Z"
+              "WhenOpened": "2026-06-28T19:42:34.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -121,7 +122,8 @@
               "ToolTip": "F:\\lucky bird\\portfolio\\stars.png",
               "RelativeToolTip": "stars.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2026-06-28T19:40:37.701Z"
+              "WhenOpened": "2026-06-28T19:40:37.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -133,7 +135,8 @@
               "RelativeToolTip": ".gitattributes",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-06-28T19:38:39.068Z"
+              "WhenOpened": "2026-06-28T19:38:39.068Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -145,7 +148,8 @@
               "RelativeToolTip": "README.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-06-28T19:15:36.022Z"
+              "WhenOpened": "2026-06-28T19:15:36.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -157,7 +161,8 @@
               "RelativeToolTip": "style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-06-28T19:13:16.844Z"
+              "WhenOpened": "2026-06-28T19:13:16.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -167,7 +172,7 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "F:\\lucky bird\\portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAH8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-06-28T18:52:15.656Z",
               "EditorCaption": ""
