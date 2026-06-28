@@ -107,6 +107,16 @@ video {
     margin-top: 2em;
 }
 
+.logosmall {
+    display: block;
+    width: 2em;
+    image-rendering: pixelated;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4em;
+}
+
+
 .inline{
     text-align: center;
     display: inline-block;
